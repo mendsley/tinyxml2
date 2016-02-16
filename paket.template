@@ -1,0 +1,17 @@
+type file
+id tinyxml2
+version 3.0.0
+authors
+	github.com/leethomason/tinyxml2
+owner
+	Matthew Endsley
+description
+	XML parsing library
+files
+	contrib/ ==> contrib/
+	lib/ ==> lib/
+	msvc_xp/ ==> msvc_xp/
+	resources/ ==> resources/
+	tinyxml2/ ==> tinyxml2/
+	* ==>
+	!*nupkg*
